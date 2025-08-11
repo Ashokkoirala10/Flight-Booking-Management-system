@@ -1,0 +1,1 @@
+Customer ID: 2, Flight ID: 1, SeatClass: BUSINESS, SeatNumber: 1B, Price: $250.0, DiscountPercent: 0.0, ManualDiscount: false, PetType: None, PetCharge: 0.0
